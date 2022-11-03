@@ -1,0 +1,24 @@
+/* estilos generales */
+body {
+    background-color:darkkhaki;
+}
+h1 {
+    background-color: darkgoldenrod;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:cornflowerblue;
+    font-style: italic;
+}
+h3 {
+    color: blue;
+    font-weight:bold;
+}
+.label{
+    color:cornflowerblue;
+    font-style: italic;
+}
+ul li{
+    list-style-type: none;
+}
